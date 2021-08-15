@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
+title:       DCA Crypto Quest to FIRE
 email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+author:      Quester
+description: "Is it possible to FIRE through crypto?"
 baseurl:     ""
-url:         "https://pixyll.com"
+url:         "https://dca.quest"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
