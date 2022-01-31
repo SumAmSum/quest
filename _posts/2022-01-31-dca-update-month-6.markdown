@@ -2,7 +2,7 @@
 layout:     post
 title:      Month 6 update of DCA crypto FIRE
 date:       2022-01-31 12:09:19
-summary:    2022 is over and what a year for crypto it was. Oh, I skipped a month again. Maybe it'll be a theme?
+summary:    2022 has entered! And what a red month it is. I can't say I don't love it though.
 categories: crypto FIRE DCA
 ---
 
